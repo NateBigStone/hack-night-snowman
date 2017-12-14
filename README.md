@@ -13,3 +13,4 @@ In order to play, you will need to either generate a random word or phrase to st
 To start, you have a file called snowman_image.txt that you can use as your starting state. You can decide how to display the image and how to remove lines of the snowman when the player answers incorrectly.
 # hack-night-snowman
 # hack-night-snowman
+# hack-night-snowman
